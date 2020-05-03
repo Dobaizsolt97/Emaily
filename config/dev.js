@@ -5,4 +5,6 @@ module.exports = {
   mongoURI:
     "mongodb+srv://emaily:qMmkoYGwEn8jA9j0@cluster0-pipax.mongodb.net/test?retryWrites=true&w=majority",
   cookieKey: "badoinkadong",
+  stripePublishableKey: "pk_test_ly5fcNMkosJss2HJNK49VrMR00YOSjPyDj",
+  stripeSecretKey: "sk_test_7mkDsfiZNDn0L4l5Go62hCSS00kWj9veCr",
 };
